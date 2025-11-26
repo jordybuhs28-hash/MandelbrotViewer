@@ -1,0 +1,14 @@
+# Ignore build outputs
+*.exe
+*.dll
+*.ini
+
+# Ignore SFML source/build folders
+SFML-2.4.0/
+bin/
+assets/
+src/
+
+# Ignore VS Code and system files
+.vscode/
+desktop.ini
